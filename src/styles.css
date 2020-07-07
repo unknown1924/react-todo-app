@@ -8,9 +8,11 @@
   background: black;
   padding: 100px;
   height: 100vh;
+  text-align: center;
 }
 
 .todo-list {
+  display: inline-block;
   background: darkmagenta;
   border-radius: 4px;
   padding: 5px;
