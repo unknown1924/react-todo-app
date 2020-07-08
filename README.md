@@ -4,10 +4,12 @@
 
 ## [Todo](https://unknown-todo-app.netlify.app/)
 ### Link to Todo app hosted on Netlify.
+Inspired by this scotch blogpost: https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components#toc-what-have-we-learned-
 
 ## But why did I even made this simple app?
     * There are plenty of other Todo apps out there all of them much better.
-    * This was built just to learn some of very fundamentals of React.
+    * This was built just to learn some of very fundamentals of React(CRUD).
+    * I prefer the learning-by-doing way!
 
 ## The Objective was:
     * Get familiar with CRUD:
